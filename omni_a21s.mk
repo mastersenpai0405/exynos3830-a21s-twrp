@@ -28,7 +28,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := a21s
-PRODUCT_NAME := twrp_a21s
+PRODUCT_NAME := omni_a21s
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-A217X
 PRODUCT_MANUFACTURER := samsung
